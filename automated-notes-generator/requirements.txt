@@ -1,7 +1,0 @@
-streamlit
-openai
-python-dotenv
-transformers
-scikit-learn
-pytube
-moviepy
